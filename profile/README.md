@@ -1,6 +1,5 @@
-# AI45: A Path to Trustworthy AGI
-
-[AI45](http://ai45.shlab.org.cn) is a safety ecosystem platform developed by [Shanghai Artificial Inteiligence Laboratory](https://www.shlab.org.cn), aiming to establish a balanced approach to AGI development with robust safety measures.
+# Welcome 👋
+to **[AI45](http://ai45.shlab.org.cn)**, a safety ecosystem platform developed by Shanghai Artificial Inteiligence Laboratory.
 
 ## Core Philosophy
 
