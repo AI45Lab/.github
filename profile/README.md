@@ -1,12 +1,27 @@
-## Hi there 👋
+# AI45: Toward Trustworthy AGI
 
-<!--
+[AI45](http://ai45.shlab.org.cn) is a safety ecosystem platform developed by [Shanghai Artificial Inteiligence Laboratory](https://www.shlab.org.cn), aiming to establish a balanced approach to AGI development with robust safety measures.
 
-**Here are some ideas to get you started:**
+## Core Philosophy
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The platform is guided by the **AI-45° Balance Principle**. We emphasize the equal imporatance of advancing AI capabilities and ensuring safety. Along this 45° balance, AI45 represents a causality centered path toward trustworthy AGI:
+
+##### Gerneal Alignment
+
+##### Interventionability
+
+##### Self-reflection
+
+## Core Modules
+
+### 🔬 Safety Foundation
+
+
+### 🛡️ Safety Technology
+
+
+### 🏆 Safety Evaluation 
+
+
+### 🌐 Safety Services
+
