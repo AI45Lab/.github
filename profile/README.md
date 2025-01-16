@@ -1,16 +1,12 @@
-# AI45: Toward Trustworthy AGI
+# AI45: A Path to Trustworthy AGI
 
 [AI45](http://ai45.shlab.org.cn) is a safety ecosystem platform developed by [Shanghai Artificial Inteiligence Laboratory](https://www.shlab.org.cn), aiming to establish a balanced approach to AGI development with robust safety measures.
 
 ## Core Philosophy
 
-The platform is guided by the **AI-45° Balance Principle**. We emphasize the equal imporatance of advancing AI capabilities and ensuring safety. Along this 45° balance, AI45 represents a causality centered path toward trustworthy AGI:
+The platform is guided by the **AI-45° Law**. From a long-term perspective, AI safety and performance should ideally advance in parallel along a 45° line. Short-term fluctuations are permissible, but in the long run, this balance should neither fall below 45° (as at present) nor exceed it (to avoid constraining development).
 
-##### Gerneal Alignment
-
-##### Interventionability
-
-##### Self-reflection
+Multiple technical pathways may achieve this “AI-45° Law”. We are exploring a causality-centered approach—“**the Causal Ladder of Trustworthy AGI**"—spanning three progressive layers: Approximate Alignment Layer, Intervenable Layer, and Reflectable Layer.'
 
 ## Core Modules
 
